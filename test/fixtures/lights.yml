@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  length: 1
+  color: MyString
+  locationinhouse: MyString
+  numberinhouse: 1
+
+two:
+  length: 1
+  color: MyString
+  locationinhouse: MyString
+  numberinhouse: 1

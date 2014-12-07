@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  model: MyString
+  color: MyString
+  address: MyText
+  date: 2014-12-07 15:57:37
+  decoration: 
+
+two:
+  model: MyString
+  color: MyString
+  address: MyText
+  date: 2014-12-07 15:57:37
+  decoration: 
